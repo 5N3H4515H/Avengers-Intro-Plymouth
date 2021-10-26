@@ -76,5 +76,5 @@ Update the initramfs image.
 
     # sudo update-initramfs -u
 
-Now reboot.
+Now reboot your system.
 
